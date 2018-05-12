@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Mapbox is pretty cool.
-* [https://github.com/AshKyd/geojson-regions](Ash Kyd) for the countries.json GeoJSON Regions file. 
+* [Ash Kyd](https://github.com/AshKyd/geojson-regions) for the countries.json GeoJSON Regions file. 
