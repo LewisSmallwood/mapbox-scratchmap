@@ -30,7 +30,7 @@ map.on('load', function () {
     // Define a GeoJSON source of all countries and their boundaries.
     map.addSource('countries', {
         "type": "geojson",
-        "data": './data/countries.json'
+        "data": './countries.json'
     });
 
     // Get the countries I have visited and add them to a new map layer.
