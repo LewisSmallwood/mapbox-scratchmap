@@ -2,6 +2,9 @@
 
 This project implements a scratchmap using mapbox in your browser.
 
+### What it looks like
+![Example Scratch Map](https://pbs.twimg.com/media/DdBlp4eW4AEcJJq.jpg:large)
+
 ## How it works
 
 All the logic for displaying this map is within `map.js`. Country boundaries are defined by the GeoJSON file `countries.json`. You can set which countries you have visited by modifying the array of countries within `visited.json`.
