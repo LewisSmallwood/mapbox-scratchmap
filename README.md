@@ -1,6 +1,8 @@
-# Scratchmap for Mapbox
+# Scratch Map for Mapbox
 
-This project implements a scratchmap using mapbox in your browser.
+This project implements a scratch map using mapbox in the browser.
+
+To view my scratch map, please follow the link: [lewissmallwood.co.uk/scratch-map](https://www.lewissmallwood.co.uk/scratch-map).
 
 ### What it looks like
 ![Example Scratch Map](https://pbs.twimg.com/media/DdBlp4eW4AEcJJq.jpg:large)
